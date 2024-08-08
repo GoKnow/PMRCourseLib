@@ -1,0 +1,6 @@
+framework module PMRCourseLib {
+  umbrella header "PMRCourseLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

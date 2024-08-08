@@ -1,0 +1,16 @@
+PODS:
+  - PMRCourseLib (0.1.0)
+
+DEPENDENCIES:
+  - PMRCourseLib (from `../`)
+
+EXTERNAL SOURCES:
+  PMRCourseLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PMRCourseLib: e4a94159b35bfabba24c3b60640de516b0c7e073
+
+PODFILE CHECKSUM: 6762215bb32b87786a04ec5e3d44a13586879abb
+
+COCOAPODS: 1.11.3
