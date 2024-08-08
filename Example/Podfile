@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'PMRCourseLib_Example' do
+  pod 'PMRCourseLib', :path => '../'
+
+  target 'PMRCourseLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
